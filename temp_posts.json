@@ -1,0 +1,27 @@
+[
+  {
+    "item": "Tomatoes",
+    "exp": "2/3/22",
+    "quantity":"2 bags"
+  },
+  {
+    "item": "Cake",
+    "exp": "4/13/23",
+    "quantity":"1"
+  },
+    {
+    "item": "Apple",
+    "exp": "3/20/23",
+    "quantity":"2 bags"
+  },
+    {
+    "item": "Pie",
+    "exp": "4/14/23",
+    "quantity":"2"
+  },
+    {
+    "item": "Cucumber",
+    "exp": "8/23/23",
+    "quantity":"3"
+    }
+]
